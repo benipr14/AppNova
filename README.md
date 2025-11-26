@@ -50,8 +50,8 @@ Dividido en 2 épicas:
 1. Programación de los módulos principales de la app.
 2. Sincronización de la agenda entre dispositivos/alumnos.
 
-**Rama de tarea**: sprint3_programacion_agenda
-**Responsable**: Benigno
+**Rama de tarea**: sprint3_programacion_agenda  
+**Responsable**: Benigno  
 **Miembros que participan**: Benigno, Haowei
 
 ### OE4 y OE5 – Sprint 4: Herramientas de seguimiento y recordatorios
@@ -60,8 +60,8 @@ Dividido en 2 épicas:
 1. Diseño y programación de herramientas de seguimiento (progreso, logros, estadísticas).
 2. Desarrollo del sistema de recordatorios para tareas/actividades.
 
-**Rama de tarea**: sprint4_herramientas_seguimiento_recordatorio
-**Responsable**: Benigno
+**Rama de tarea**: sprint4_herramientas_seguimiento_recordatorio  
+**Responsable**: Benigno  
 **Miembros que participan**: Benigno, Haowei
 
 ### OE6 – Sprint 5: Interacción entre alumnos
@@ -70,8 +70,8 @@ Dividido en 2 épicas:
 1. Diseño de la interacción entre distintos alumnos.
 2. Implementación de la comunicación/interacción colaborativa.
 
-**Rama de tarea**: sprint5_interaccion
-**Responsable**: Haowei (implementación)
+**Rama de tarea**: sprint5_interaccion  
+**Responsable**: Haowei (implementación)  
 **Miembros que participan**: Benigno, Haowei
 
 ## Ramas principales del repositorio
